@@ -6,9 +6,10 @@ acme-studio is a simple api for cost explorers
 ## Build
 use the below command to build the application
 ```
-tsc
+npm install && tsc
 ```
 ## Test
+create schema for repository test.
 use the below command to run the tests
 ```
 npm run test
